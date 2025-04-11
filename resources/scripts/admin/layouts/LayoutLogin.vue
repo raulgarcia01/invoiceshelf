@@ -141,7 +141,7 @@ const pageHeading = computed(() => {
     return window.login_page_heading
   }
 
-  return 'Simple Invoicing for Individuals Small Businesses'
+  return 'PymeStack Tools for Individuals and Small Businesses'
 })
 
 const pageDescription = computed(() => {
